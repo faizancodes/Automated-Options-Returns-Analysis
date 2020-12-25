@@ -42,6 +42,7 @@ proxyPool = cycle(pxs)
 
 allData = []
 
+# Go through different strike prices 
 for i in range(3):
 
     
